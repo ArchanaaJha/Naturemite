@@ -1,0 +1,31 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.product-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.product-container img {
+  width: 100%;
+  max-width: 300px;
+}
+
+.product-container h2 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.product-container p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.product-container button {
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+  
